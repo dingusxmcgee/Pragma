@@ -29,6 +29,15 @@ https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_1
 
 
 
+
+![TopView](https://github.com/dingusxmcgee/pragma/blob/master/Renders/6Key_Top.jpg?raw=true)
+![SideView](https://github.com/dingusxmcgee/6Key/blob/master/Renders/6Key_Front.jpg?raw=true)
+![SideView2]
+![BottomView]
+![InsideView]
+
+
+
 *All files are provided as is and I accept no liability if they aren't very good.*
 
 *These files were specifically designed to be milled by a CNC machine. Any other fabrication method may require modification*
