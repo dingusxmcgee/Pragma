@@ -37,6 +37,8 @@ https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_1
 ![InsideView2](https://github.com/dingusxmcgee/Pragma/blob/main/Images/inside-weight.jpg?raw=true)
 
 
+Many thanks and credit to Rain for making Gumbo, of which this design is based off of.
+
 
 *All files are provided as is and I accept no liability if they aren't very good.*
 
