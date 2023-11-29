@@ -27,7 +27,6 @@ O-ring:
 AS568-262 or similar should fit. There is room for larger orings, you can kinda cram them in. Experiment and have fun.
 https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_16_18&products_id=878
 
-https://github.com/dingusxmcgee/Pragma/blob/main/Images/top.jpg
 
 
 ![TopView](https://github.com/dingusxmcgee/Pragma/blob/main/Images/top.jpg?raw=true)
@@ -35,6 +34,7 @@ https://github.com/dingusxmcgee/Pragma/blob/main/Images/top.jpg
 ![SideView2](https://github.com/dingusxmcgee/Pragma/blob/main/Images/side2.jpg?raw=true)
 ![BottomView](https://github.com/dingusxmcgee/Pragma/blob/main/Images/bottom.jpg?raw=true)
 ![InsideView](https://github.com/dingusxmcgee/Pragma/blob/main/Images/top-inside.jpg?raw=true)
+![InsideView2](https://github.com/dingusxmcgee/Pragma/blob/main/Images/inside-weight.jpg?raw=true)
 
 
 
